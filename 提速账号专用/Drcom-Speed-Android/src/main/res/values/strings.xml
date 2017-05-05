@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dr.com</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_about">联系作者</string>
+    <string name="action_usage">使用说明</string>
+</resources>

@@ -8,7 +8,7 @@
 EasyDrcom 原为哈尔滨工业大学项目，13级 `XeonForce` 做了广财的适配，14级 [HowquaX](https://github.com/HowquaX) 提供一键安装包。 
 
 主程序需要安装 `WinPcap` 库才能运行。
-1. 小白：直接用[一键安装包](./Win/EasyDrcomSetup_with_winpcap_v1.7)，安装不上则手动安装。Win10装 `Win10Pcap.msi`，其他系统装 `WinPcap.exe` 。 
+1. 小白：直接用[一键安装包](./Win/EasyDrcomSetup_with_winpcap_v1.7.zip)，安装不上则手动安装。Win10装 `Win10Pcap.msi`，其他系统装 `WinPcap.exe` 。 
 1. 懂行的：有 `WinPcap` 库的直接用 [EasyDrcom_without_winpcap.exe](./Win/EasyDrcom_without_winpcap.exe)  
 ![](http://epa.gdufe.edu.cn/ueditor/php/upload/image/20161115/1479221388315255.png)
 

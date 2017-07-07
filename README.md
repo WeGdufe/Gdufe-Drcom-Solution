@@ -13,11 +13,13 @@ EasyDrcom 原为哈尔滨工业大学项目，13级 `XeonForce` 做了广财的�
 ![](http://epa.gdufe.edu.cn/ueditor/php/upload/image/20161115/1479221388315255.png)
 
 源码： https://github.com/HowquaX/EasyDrcomGUI-For-GDUFE  
-源码修改点见 http://husky.red/archives/1245.html
+源码修改点见（因husky.red域名在PRC国内无法备案，故迁移至howqua.top）： http://hoqua.top/archives/1245.html
 
 ## Mac
 苹果电脑可用 [官方版](http://xxb.gdufe.edu.cn/articleinfo/detail_25_49_265.aspx)
  或者 [EasyDrcom 苹果版 - By HowquaX](./Mac/广财EasyDrcom_for_Mac.zip)，官方版会修改部分系统文件，影响开发，所以才有了苹果版。
+源码： https://github.com/HowquaX/EasyDrcomGUI-MacOS
+源码修改点见（因husky.red域名在PRC国内无法备案，故迁移至howqua.top）： http://hoqua.top/archives/1245.html
 
 ## Linux
 Linux的官方版不可用。
@@ -50,7 +52,7 @@ Linux的官方版不可用。
 
 13计算机 XeonForce http://wp.xeonforce.com/ 打不开的话是作者重装后没放博客系统上去了  
 13计算机 wintercoder 小光 https://github.com/wintercoder 、[CSDN博客](http://blog.csdn.net/u012469987)  
-14计算机 HowquaX http://husky.red/archives/1245.html  、https://github.com/HowquaX  
+14计算机 HowquaX http://howqua.top/archives/1245.html  、https://github.com/HowquaX  
 14数院 肚肚 暂无  
 欢迎其他大佬参与[WeGdufe系列项目](https://github.com/WeGdufe/)。技术学习讨论群： 563497571
 

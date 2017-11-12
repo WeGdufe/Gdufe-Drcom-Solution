@@ -1,4 +1,5 @@
 #!/bin/bash
+# A violent solution for normal account offline situation while drcom.py still running.
 
 while true
 do
@@ -10,5 +11,5 @@ do
         fi
         nohup python2 /drcom.py &>/dev/null & # change /drcom.py to your own path
     fi
-    sleep 10
+    sleep 60
 done

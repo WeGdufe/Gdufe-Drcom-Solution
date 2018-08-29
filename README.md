@@ -54,7 +54,7 @@ Linux的官方版不可用。
 ## 联系各大佬
 
 13计算机 wintercoder  https://github.com/wintercoder  
-13计算机 XeonForce http://wp.xeonforce.com/ 打不开的话是作者重装后没放博客系统上去了  
+13计算机 XeonForce 暂无
 14计算机 HowquaX http://howqua.top/archives/1245.html  、https://github.com/HowquaX  
 14数院某大佬  暂无  
 欢迎其他大佬参与[WeGdufe系列项目](https://github.com/WeGdufe/)。技术学习讨论群： 563497571

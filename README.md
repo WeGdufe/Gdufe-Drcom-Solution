@@ -49,14 +49,14 @@ Linux的官方版不可用。
 挖掘者：13级 [wintercoder](https://github.com/wintercoder)，包含Android版开发。另如果需要普通账号的安卓版转见 [小广财](https://github.com/WeGdufe/SmallGdufe-Android) 。 
 
 ## 其他
-14数院肚肚 搞了个去掉wifi检测的官方drcom补丁(Windows系统)，关掉360等管家后把文件覆盖到 `C:\Drcom\DrUpdateClient` 就行。
+14数院某大佬 搞了个去掉wifi检测的官方drcom补丁(Windows系统)，关掉360等管家后把文件覆盖到 `C:\Drcom\DrUpdateClient` 就行。
 
 ## 联系各大佬
 
-13计算机 wintercoder  https://github.com/wintercoder 
+13计算机 wintercoder  https://github.com/wintercoder  
 13计算机 XeonForce http://wp.xeonforce.com/ 打不开的话是作者重装后没放博客系统上去了  
 14计算机 HowquaX http://howqua.top/archives/1245.html  、https://github.com/HowquaX  
-14数院肚肚  暂无  
+14数院某大佬  暂无  
 欢迎其他大佬参与[WeGdufe系列项目](https://github.com/WeGdufe/)。技术学习讨论群： 563497571
 
 

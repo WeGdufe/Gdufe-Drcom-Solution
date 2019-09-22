@@ -5,6 +5,8 @@
 本项目收集了广东财经大学的Dr.com城市热点上网解决方案，不包含官方客户端。  
 大多数程序为信院13，14级折腾而来，此项目存放可执行版，大部分程序内置源码。
 
+>**2019-09-22 更新说明：** 在大佬们毕业后，官方更新了web版，所以下面的 windows、mac版可用性未知**
+
 ## Windows
 官方客户端各种恶心检测，建议使用 `EasyDrcom` 客户端，没有Wifi、代理检测等，只做上网使用。  
 EasyDrcom 原为哈尔滨工业大学项目，13级 `XeonForce` 做了广财的适配，14级 [HowquaX](https://github.com/HowquaX) 提供一键安装包。 
@@ -38,7 +40,7 @@ Linux的官方版不可用。
 2. 有个没人维护的 [路由器版](./路由器)，原作者：  `XeonForce` 。目测没有针对2016年9月的官方更新而改版本号，不确保可用。
 
 ## 神器 - 提速账号多人登陆
-以上均为普通账号的方案，此处神器**低调使用**：电信提速账号可用Web版登陆，可多人登陆。  
+以上均为普通账号的方案，此处**低调使用**：电信提速账号可用Web版登陆，可多人登陆。  
 虽然官方去掉了登陆输入框界面，但接口还在，但只能是提速账号才可用。  
 多人登陆需全部人都用网页版登陆，不能用官方客户端，否则全部人掉线。
 
@@ -46,18 +48,18 @@ Linux的官方版不可用。
 1. 提供了python版用于开机自动登陆使用，加在计划任务里就行了
 1. 也提供Android版（连 `gdufe` Wifi）和对应源码，可与网页/Python版一起用
 
-挖掘者：13级 [wintercoder](https://github.com/wintercoder)，包含Android版开发。另如果需要普通账号的安卓版转见 [小广财](https://github.com/WeGdufe/SmallGdufe-Android) 。 
+另如果需要普通账号的安卓版转见 [小广财](https://github.com/WeGdufe/SmallGdufe-Android) 。 
 
 ## 其他
 14数院某大佬 搞了个去掉wifi检测的官方drcom补丁(Windows系统)，关掉360等管家后把文件覆盖到 `C:\Drcom\DrUpdateClient` 就行。
 
 ## 联系各大佬
 
-13计算机 wintercoder  https://github.com/wintercoder  
+13计算机 wintercoder  https://github.com/wintercoder    QQ：792875586 （备注下是这里来的）
 13计算机 XeonForce 暂无
 14计算机 HowquaX http://howqua.top/archives/1245.html  、https://github.com/HowquaX  
 14数院某大佬  暂无  
-欢迎其他大佬参与[WeGdufe系列项目](https://github.com/WeGdufe/)。技术学习讨论群： 563497571
+欢迎其他大佬参与[WeGdufe系列项目](https://github.com/WeGdufe/)。技术学习可以加群： 631036490 
 
 
 
